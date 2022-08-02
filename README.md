@@ -2,9 +2,13 @@
 A test implementation for the paper "Deep Consistency-Preserving Hash Auto-encoders for Neuroimage Cross-Modal Retrieval" (Under reviewing)
 
 # Environment:
+
 python        3.6
+
 pytorch       1.8.1+cu101
+
 torchvision   0.9.1+cu101
+
 numpy         1.18.5
 
 # Steps
