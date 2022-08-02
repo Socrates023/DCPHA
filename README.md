@@ -13,9 +13,9 @@ numpy         1.18.5
 
 # Steps
 
-1. Download pre-trained models from [there]() password: .
+1. Download pre-trained models from [there](https://pan.baidu.com/s/1h8NNO9GKD1R1EDtC_Ty2Kw) password: mxss
 
-2. Download partial test samples from [there]() password: .
+2. Download partial test samples from [there](https://pan.baidu.com/s/1SbiEetuQUcZz5pvHwIn0MQ) password: data
 
 3. Remove the pre-trained model (such as DCPHA_ADNI2_16bits) into corresponding dir. e.g.: /DCPHA/pretrain_models/DCPHA_ADNI2_16bits.pth
 
